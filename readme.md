@@ -1,6 +1,10 @@
-#WeatherApp[In progress]
+#WeatherApp
 
 This is a simple web app that show in real time the weather of your location using the googlemaps API and a weather API. 
+
+##2 Versions
+
+I create 2 versions, the first called ```app.js```, uses the NPM libraries:    [yargs](https://www.npmjs.com/package/yargs) for the console and the [request](https://www.npmjs.com/package/request) to connecto to the API of GoogleMaps & DarkSky. The second version use promises.
 
 ##Tu run
 
